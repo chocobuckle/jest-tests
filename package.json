@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "jest": "^22.4.3",
+    "react-testing-library": "^2.0.0"
+  },
+  "name": "jest-enzyme-tests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/chocobuckle/jest-enzyme-tests.git",
+  "author": "chocobuckle <contact@conordoyle.io>",
+  "license": "MIT"
+}
